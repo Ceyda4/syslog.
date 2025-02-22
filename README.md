@@ -29,7 +29,9 @@ Tüm kayıtları numaralı şekilde görüntüler
 bas: Liste başlangıç işaretçisi 
 ## Sınırlamalar
 Her log mesajı maksimum 100 karakter uzunluğunda olabilir
+
 Program sonlandığında kayıtlar kalıcı olarak saklanmaz
+
 Kayıt silme fonksiyonu bulunmamaktadır
 ## Geliştirme Önerileri
 
